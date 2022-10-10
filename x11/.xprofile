@@ -1,0 +1,17 @@
+#!/bin/sh
+
+# This file runs when a DM logs you into a graphical session.
+# If you use startx/xinit like a Chad, this file will also be sourced.
+
+xrandr --output DP-0 --mode 2560x1440 --rate 165			# Monitor config
+setxkbmap -model pc105 -layout us,ar -option 'grp:alt_shift_toggle'	# Keyboard Layout
+xwallpaper --zoom ~/.config/wallpaper.jpg				# Set wallpaper
+xrdb ~/.Xresources							# Load user-level configuration dotfile
+
+autostart="picom unclutter slstatus dunst sxhkd mpd"
+
+for program in $autostart; do
+	pidof -s "$program" || "$program" &
+done >/dev/null 2>&1
+
+[ -n "$xrdbpid" ] && wait "$xrdbpid"					# Ensure that xrdb has finished running before moving on to start the WM/DE.

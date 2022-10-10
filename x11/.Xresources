@@ -1,0 +1,47 @@
+!-- Xft settings -- !
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintfull
+
+st.font:	Monospace:pixelsize=12:antialias=true:autohint=true;
+st.opacity: 	255
+st.alpha: 	0.94
+
+! special
+*.foreground:   #97855E
+*.background:   #262626
+*.cursorColor:  #927865
+
+! black
+*.color0:       #504945
+*.color8:       #504945
+
+! red
+*.color1:       #F89595
+*.color9:       #F89595
+
+! green
+*.color2:       #67C9A4
+*.color10:      #67C9A4
+
+! yellow
+*.color3:       #FFC66D
+*.color11:      #FFC66D
+
+! blue
+*.color4:       #6897BB
+*.color12:      #6897BB
+
+! magenta
+*.color5:       #B995F8
+*.color13:      #B995F8
+
+! cyan
+*.color6:       #93E4E4
+*.color14:      #93E4E4
+
+! white
+*.color7:       #97855E
+*.color15:      #97855E

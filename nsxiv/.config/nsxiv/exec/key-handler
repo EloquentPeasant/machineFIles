@@ -1,0 +1,10 @@
+#!/bin/sh
+while read file
+do
+	case  "$1" in
+		"c") cat "$file" | xclip -sel c -t image/png ;;
+		"r") convert $fie -rotate 90 /tmp/out.jpg ;;
+		"d") rm "$file";;
+		"w") xwallpaper --zoom "$file" ;;
+	esac
+done

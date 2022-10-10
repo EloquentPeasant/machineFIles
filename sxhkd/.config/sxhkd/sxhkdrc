@@ -1,0 +1,22 @@
+# run dmenu
+super + space
+	dmenu_run -l 15 -bw 1
+
+# take screenshots
+Print
+	maimpick
+
+# record screen with ffmpeg
+super + Print
+	record
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# task switcher for x
+super + semicolon
+	skippy-xd
+# lock screen 
+super + shift + l
+	slock -m "$(cowsay "$(fortune)")"
