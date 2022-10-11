@@ -2,8 +2,8 @@ sw_volume: 94
 audio_device_state:1:my_fifo
 audio_device_state:1:Pipewire Sound Server
 state: pause
-current: 1
-time: 37.958000
+current: 6
+time: 115.861000
 random: 0
 repeat: 0
 single: 0
@@ -14,4 +14,57 @@ mixrampdelay: -1.000000
 playlist_begin
 0:The Lord Of The Rings/The Fellowship Of The Ring/01 - The Prophecy.flac
 1:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/03 Jeremy Soule - From Past to Present.flac
+2:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/01 Jeremy Soule - Dragonborn.flac
+3:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/02 Jeremy Soule - Awake.flac
+4:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/03 Jeremy Soule - From Past to Present.flac
+5:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/04 Jeremy Soule - Unbroken Road.flac
+6:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/05 Jeremy Soule - Ancient Stones.flac
+7:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/06 Jeremy Soule - The City Gates.flac
+8:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/07 Jeremy Soule - Silent Footsteps.flac
+9:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/08 Jeremy Soule - Dragonsreach.flac
+10:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/09 Jeremy Soule - Tooth and Claw.flac
+11:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/10 Jeremy Soule - Under an Ancient Sun.flac
+12:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/11 Jeremy Soule - Death or Sovngarde.flac
+13:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/12 Jeremy Soule - Masser.flac
+14:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/13 Jeremy Soule - Distant Horizons.flac
+15:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/14 Jeremy Soule - Dawn.flac
+16:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/15 Jeremy Soule - The Jerall Mountains.flac
+17:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/16 Jeremy Soule - Steel on Steel.flac
+18:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/17 Jeremy Soule - Secunda.flac
+19:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 1/18 Jeremy Soule - Imperial Throne.flac
+20:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/01 Jeremy Soule - Frostfall.flac
+21:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/02 Jeremy Soule - Night without Stars.flac
+22:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/03 Jeremy Soule - Into Darkness.flac
+23:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/04 Jeremy Soule - Kyne's Peace.flac
+24:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/05 Jeremy Soule - Unbound.flac
+25:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/06 Jeremy Soule - Far Horizons.flac
+26:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/07 Jeremy Soule - A Winter's Tale.flac
+27:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/08 Jeremy Soule - The Bannered Mare.flac
+28:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/09 Jeremy Soule - The Streets of Whiterun.flac
+29:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/10 Jeremy Soule - One They Fear.flac
+30:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/11 Jeremy Soule - The White River.flac
+31:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/12 Jeremy Soule - Silence Unbroken.flac
+32:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/13 Jeremy Soule - Standing Stones.flac
+33:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/14 Jeremy Soule - Beneath the Ice.flac
+34:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/15 Jeremy Soule - Tundra.flac
+35:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 2/16 Jeremy Soule - Journey's End.flac
+36:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/01 Jeremy Soule - Before the Storm.flac
+37:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/02 Jeremy Soule - A Chance Meeting.flac
+38:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/03 Jeremy Soule - Out of the Cold.flac
+39:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/04 Jeremy Soule - Around the Fire.flac
+40:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/05 Jeremy Soule - Shadows and Echoes.flac
+41:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/06 Jeremy Soule - Caught off Guard.flac
+42:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/07 Jeremy Soule - Aurora.flac
+43:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/08 Jeremy Soule - Blood and Steel.flac
+44:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/09 Jeremy Soule - Towers and Shadows.flac
+45:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/10 Jeremy Soule - Seven Thousand Steps.flac
+46:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/11 Jeremy Soule - Solitude.flac
+47:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/12 Jeremy Soule - Watch the Skies.flac
+48:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/13 Jeremy Soule - The Gathering Storm.flac
+49:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/14 Jeremy Soule - Sky Above, Voice Within.flac
+50:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/15 Jeremy Soule - Death in the Darkness.flac
+51:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/16 Jeremy Soule - Shattered Shields.flac
+52:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/17 Jeremy Soule - Sovngarde.flac
+53:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 3/18 Jeremy Soule - Wind Guide You.flac
+54:Jeremy Soule/The Elder Scrolls V Skyrim/Disc 4/01 Jeremy Soule - Skyrim Atmospheres.flac
 playlist_end

@@ -5,10 +5,10 @@
 
 xrandr --output DP-0 --mode 2560x1440 --rate 165			# Monitor config
 setxkbmap -model pc105 -layout us,ar -option 'grp:alt_shift_toggle'	# Keyboard Layout
-xwallpaper --zoom ~/.config/wallpaper.jpg				# Set wallpaper
+xwallpaper --zoom ~/machineFiles/wallpaper.jpg				# Set wallpaper
 xrdb ~/.Xresources							# Load user-level configuration dotfile
 
-autostart="picom unclutter slstatus dunst sxhkd mpd"
+autostart="pipewire picom unclutter slstatus dunst sxhkd mpd"
 
 for program in $autostart; do
 	pidof -s "$program" || "$program" &
